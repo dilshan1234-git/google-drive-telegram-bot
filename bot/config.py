@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5737049466:AAG2NbIqML-EE0EZl7SWi7hGOFLCuWtux4Q"
+    APP_ID = "14631157"
+    API_HASH = "aa7c2b3be68a7488abdb9de6ce78d311"
+    DATABASE_URL = "postgres://yblxyslqqcdxxp:29baf2d748516e7a7354bd222698c6672669b34677c6862ed52e7bb17ff76aac@ec2-54-204-241-136.compute-1.amazonaws.com:5432/d20d36d9vit549"
+    SUDO_USERS = "5380833276" # Sepearted by space.
     SUPPORT_CHAT_LINK = ""
-    DOWNLOAD_DIRECTORY = "./downloads/"
+    DOWNLOAD_DIRECTORY = "./downloads
     G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_SECRET = ""to
 
 
 class BotCommands:
@@ -21,7 +21,7 @@ class BotCommands:
   YtDl = ['ytdl']
 
 class Messages:
-    START_MSG = "**Hi there {}.**\n__I'm Google Drive Uploader Bot.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
+    START_MSG = "**Hi there {}.**\n__I'm Google Drive Uploader කොහොමද  Bot dilshan.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__You can know more from /help.__"
 
     HELP_MSG = [
         ".",
